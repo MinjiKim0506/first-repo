@@ -1,9 +1,13 @@
 # first-repo
 
-##Requirements
+## Requirements
+
+-python>3.8
+-requests
+-beatifulsoup4
+-docker
+
+## Installation
 
 
-##Installation
-
-
-##How to contribute
+## How to contribute
